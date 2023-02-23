@@ -1,0 +1,23 @@
+[
+  {
+    "song": "Queen of Kings",
+    "artist": "Alessandra Mele",
+    "photo_url": "",
+    "video_url": "https://www.youtube.com/watch?v=q6QFVqWX2gM",
+    "rank": "1"
+  },
+  {
+    "song": "Honestly",
+    "artist": "Ulrikke Brandstorp",
+    "photo_url": "",
+    "video_url": "https://www.youtube.com/watch?v=zt7U0-N1mlk",
+    "rank": "2"
+  },
+  {
+    "song": "Masterpiece",
+    "artist": "Atle Pettersen",
+    "photo_url": "",
+    "video_url": "https://www.youtube.com/watch?v=-y78qgDlzAM",
+    "rank": "3"
+  }
+]
